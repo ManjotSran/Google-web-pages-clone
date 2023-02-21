@@ -1,0 +1,103 @@
+body {
+    font-family: arial,sans-serif;
+}
+.nav2 {
+    /*border: 1px solid red;*/
+}
+.heading {
+    /*border: 1px solid springgreen;*/
+    margin-bottom: -17.5px;
+}
+#adsrch {
+    margin-right: 10px;
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+}
+.main-content{
+    max-width: 1140px;
+    min-width: 200px;
+    width: 96%;
+    margin: 40px 2% 0 45px;
+    /*border: 1px solid blue;*/
+    display: block;
+}
+form {
+    display: block;
+}
+.col-form-label{
+    font-size: 13px;
+    line-height: 16px;
+    float: left;
+    display: inline-block;
+
+}
+#inputPassword{
+    float: left;
+    display: inline-block;
+    /*min-width: 167px;
+    min-height: 41px;*/
+    height: 28.6px;
+    width: 472px;
+    vertical-align: middle;
+    width: 50%;
+    margin-left: -11px;
+}
+span{
+    font-size: 16px;
+    font-weight: 500;
+}
+.btn-advanced{
+    box-shadow: none;
+    background-color: #4d90fe;
+    border: 1px solid #3079ed;
+    color: #fff;
+    /*float: middle;*/
+    margin: 10px 0;
+    /*display: flex;
+    justify-content: flex-end;*/
+    margin-left: 945px;
+    margin-top: -50px;
+
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .alert-light {
+	background: #f2f2f2;
+	margin-bottom: -5px;
+	display:flex;
+	flex-wrap:wrap;
+  margin-top: 150px;
+	justify-content:space-between
+	/*border: 1px solid #dadce0*/
+}
+
+.nav3{
+	margin-right: 12px;
+}
+
+.nav4 {
+
+	margin-left: 1225px;
+	margin-top: -35px;
+}
+
+.google {
+	margin-top: 26.5px;
+	margin-left: 200px;
+}
+#footer {
+  margin-top: -8px;
+}
+
+
+.link{
+    color: grey;
+}
+.link:hover{
+    color: grey;
+}
+
